@@ -1,0 +1,23 @@
+[
+{
+    "id": 1,
+    "name" : "KFC",
+    "Ambience" : 5,
+    "Food": 5,
+    "Location": 5
+},
+{
+    "id":2,
+    "name" : "Five Star",
+    "Ambience" : 5,
+    "Food": 4,
+    "Location": 1
+},
+{
+    "id":3,
+    "name" : "Pizza Hut",
+    "Ambience" : 3,
+    "Food": 2,
+    "Location": 5
+}
+]
